@@ -11,8 +11,7 @@
 
 		}
 
-		var item = $("#items").attr("id");
-		$("#items").append(item)
+		
 	});
 		
 
