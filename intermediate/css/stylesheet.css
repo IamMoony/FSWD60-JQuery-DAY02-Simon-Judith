@@ -1,8 +1,14 @@
+.content_wrapper {
+	display:  flex;
+	flex-direction: row;
+}
+
 #items {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-around;
+	width: 80%;
 }
 
 .item_single {
@@ -17,6 +23,14 @@
 	width: 33.33%;
 }
 
+.shopping_cart {
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+	width: 20%;
+	margin: 2%;
+}
+
 img {
 	border: solid 1px darkgrey;
 	width: 100%;
@@ -27,3 +41,5 @@ p {
 	text-align: center;
 	font-weight: bold;
 }
+
+
