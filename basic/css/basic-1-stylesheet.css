@@ -10,3 +10,8 @@ img {
 	width: 200px;
 
 }
+
+#click_result {
+	text-align: center;
+	border: 1px solid black;
+}
