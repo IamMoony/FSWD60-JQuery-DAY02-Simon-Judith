@@ -20,7 +20,18 @@ var data = [
 
 "itemPic": "img/IFood.jpg"
 
-}, 
+},
+{
+
+"itemNo":"003",
+
+"itemName":"Linux",
+
+"itemPrice": "&#8364 699,99",
+
+"itemPic": "img/Linux.jpg"
+
+},  
 {
 
 "itemNo":"004",
