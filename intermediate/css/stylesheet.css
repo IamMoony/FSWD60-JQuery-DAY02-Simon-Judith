@@ -1,10 +1,16 @@
-.item_Container {
+#items {
 	display: flex;
 	flex-direction: row;
+	flex: 33%;
 	justify-content: space-around;
 }
 img {
 	border: solid 1px darkgrey;
-	width: 200px;
-	height: 200px;
+	width: 300px;
+	height: 300px;
+}
+
+p {
+	text-align: center;
+	font-weight: bold;
 }

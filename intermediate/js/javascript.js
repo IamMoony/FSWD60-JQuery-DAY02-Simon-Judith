@@ -7,7 +7,7 @@
 		for (var i=0; i<data.length; i++){
 		   var items = data[i];
 
-			$("#items").append("<div class='item_Container' name='"+items.itemName+""<br>"'price='"+items.itemPrice+"'value="1"><img src='" + items.itemPic + "'>" + "<br><p>" + items.itemName + "<br>" + items.itemPrice+ "</p></div>");
+			$("#items").append("<div class='item_Container' name='"+ items.itemName +"' price='"+items.itemPrice+"' amount='0'><div class='item_single'><img id='"+items.itemNo+"' src='" + items.itemPic + "'>" + "<br><p>" + items.itemName + "<br>" + items.itemPrice+ "</p></div></div>");
 
 		}
 
