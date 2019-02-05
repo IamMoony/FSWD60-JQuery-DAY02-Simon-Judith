@@ -8,7 +8,9 @@ var data = [
 
 "itemPrice": "&#8364 19,99",
 
-"itemPic": "img/headphones.jpg"
+"itemPic": "img/headphones.jpg",
+
+"itemAmount":"10"
 
 }, {
 
@@ -18,7 +20,9 @@ var data = [
 
 "itemPrice": "&#8364 199,99",
 
-"itemPic": "img/IFood.jpg"
+"itemPic": "img/IFood.jpg",
+
+"itemAmount":"10"
 
 },
 {
@@ -29,7 +33,9 @@ var data = [
 
 "itemPrice": "&#8364 699,99",
 
-"itemPic": "img/Linux.jpg"
+"itemPic": "img/Linux.jpg",
+
+"itemAmount":"10"
 
 },  
 {
@@ -40,7 +46,9 @@ var data = [
 
 "itemPrice": "&#8364 29,99",
 
-"itemPic": "img/loudspeaker.jpg"
+"itemPic": "img/loudspeaker.jpg",
+
+"itemAmount":"10"
 
 },
 {
@@ -51,7 +59,9 @@ var data = [
 
 "itemPrice": "&#8364 9,99",
 
-"itemPic": "img/mouse.jpg"
+"itemPic": "img/mouse.jpg",
+
+"itemAmount":"10"
 
 },
 {
@@ -62,7 +72,9 @@ var data = [
 
 "itemPrice": "&#8364 59,99",
 
-"itemPic": "img/officechair.jpg"
+"itemPic": "img/officechair.jpg",
+
+"itemAmount":"10"
 
 },
 {
@@ -73,7 +85,9 @@ var data = [
 
 "itemPrice": "&#8364 399,99",
 
-"itemPic": "img/smartphone.jpg"
+"itemPic": "img/smartphone.jpg",
+
+"itemAmount":"10"
 
 },
 {
@@ -84,7 +98,9 @@ var data = [
 
 "itemPrice": "&#8364 99,99",
 
-"itemPic": "img/synthesizer.jpg"
+"itemPic": "img/synthesizer.jpg",
+
+"itemAmount":"10"
 
 },
 {
@@ -95,7 +111,9 @@ var data = [
 
 "itemPrice": "&#8364 299,99",
 
-"itemPic": "img/tablet.jpg"
+"itemPic": "img/tablet.jpg",
+
+"itemAmount":"10"
 
 }
 ];
