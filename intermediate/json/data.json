@@ -1,0 +1,91 @@
+
+var data = [
+
+{
+
+"itemNo":"001",
+
+"itemName":"headphones",
+
+"itemPrice": "&#8364 19,99",
+
+"itemPic": "img/headphones.jpg"
+
+}, {
+
+"itemNo":"002",
+
+"itemName":"IFood",
+
+"itemPrice": "&#8364 199,99",
+
+"itemPic": "img/IFood.jpg"
+
+}, 
+{
+
+"itemNo":"004",
+
+"itemName":"Loudspeaker",
+
+"itemPrice": "&#8364 29,99",
+
+"itemPic": "img/loudspeaker.jpg"
+
+},
+{
+
+"itemNo":"005",
+
+"itemName":"Mouse",
+
+"itemPrice": "&#8364 9,99",
+
+"itemPic": "img/mouse.jpg"
+
+},
+{
+
+"itemNo":"006",
+
+"itemName":"Office Chair",
+
+"itemPrice": "&#8364 59,99",
+
+"itemPic": "img/officechair.jpg"
+
+},
+{
+
+"itemNo":"007",
+
+"itemName":"Smartphone",
+
+"itemPrice": "&#8364 399,99",
+
+"itemPic": "img/smartphone.jpg"
+
+},
+{
+
+"itemNo":"008",
+
+"itemName":"Synthesizer",
+
+"itemPrice": "&#8364 99,99",
+
+"itemPic": "img/synthesizer.jpg"
+
+},
+{
+
+"itemNo":"009",
+
+"itemName":"Tablet",
+
+"itemPrice": "&#8364 299,99",
+
+"itemPic": "img/tablet.jpg"
+
+},
+];

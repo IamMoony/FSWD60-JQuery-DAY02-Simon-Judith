@@ -1,0 +1,10 @@
+.item_Container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+img {
+	border: solid 1px darkgrey;
+	width: 200px;
+	height: 200px;
+}
